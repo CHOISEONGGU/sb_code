@@ -27,6 +27,6 @@ spec:
   selector:
     app: myhttpd
   ports:
-  - nodePort: 32200
+  - nodePort: 32100
     port: 80
     targetPort: 8085
