@@ -13,7 +13,7 @@ pipeline {
     GITDEPADD = 'git@github.com:CHOISEONGGU/sb_code.git'
     GITCREDENTIAL = 'git_cre'
     // github credential 생성시의 ID
-    DOCKERHUB = '211.183.3.10:5000/myhttpd'
+    DOCKERHUB = '211.183.3.10:5000/myhsb'
     DOCKERHUBCREDENTIAL = 'docker_cre' 
     // docker credential 생성시의 ID
   }
